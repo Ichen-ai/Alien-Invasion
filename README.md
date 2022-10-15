@@ -1,2 +1,2 @@
-# Alien-Invasion
-A game where you defend the world against monstrous aliens 
+# Maze Game
+You have to navigate the labyrinth without alerting the guards
