@@ -1,3 +1,5 @@
+#written by Ivan Chen
+
 #create a Maze game!
 from pygame import *
 
